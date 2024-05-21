@@ -37,3 +37,7 @@ O objetivo é demonstrar o processo de forma didática, utilizando o LaTeX.
 
 #Cálculo #FunçãoQuadrática #LaTeX #Matemática #Funções #EstudantesdeMatemática #ProfessoresdeMatemática #Iniciante #Educação #Ciência #Tecnologia
 
+### Imagem
+
+![visualização](https://github.com/DeiseFreire/Calculando-funcao-no-LaTeX/blob/main/estudando%20funcao%20com%20o%20LaTex.jpg)
+
