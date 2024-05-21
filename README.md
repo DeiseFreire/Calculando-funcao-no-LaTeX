@@ -1,3 +1,5 @@
+![LaTex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white) ![overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
+
 ### Cálculo de $\frac{f(b) - f(a)}{b - a}$ para $f(x) = x^2 + ax + bx$
 
 ### Descrição:
@@ -28,6 +30,10 @@ O objetivo é demonstrar o processo de forma didática, utilizando o LaTeX.
 ### Observações:
 
 * O código LaTeX foi testado e validado com sucesso.
-* O resultado final do cálculo é `$\boxed{2(a + b)}$`.
+* O resultado final do cálculo é $\boxed{2(a + b)}$.
 * O código pode ser adaptado para outras funções e expressões.
+
+### Tags
+
+#Cálculo #FunçãoQuadrática #LaTeX #Matemática #Funções #EstudantesdeMatemática #ProfessoresdeMatemática #Iniciante #Educação #Ciência #Tecnologia
 
