@@ -34,7 +34,7 @@ O objetivo é demonstrar o processo de forma didática, utilizando o LaTeX.
 * O código pode ser adaptado para outras funções e expressões.
 
 
-<a href="[https://www.youtube.com/seu-canal-youtube-aqui](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="[[https://www.youtube.com/seu-canal-youtube-aqui](https://www.youtube.com/watch?v=r-IN5Aye8Qg&list=PLZpH1iUcDo5jySyW1zOz5PV4Yg84VV-fg&index=4)](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
 
 ### Tags
