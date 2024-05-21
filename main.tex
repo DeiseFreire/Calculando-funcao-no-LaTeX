@@ -1,0 +1,68 @@
+\documentclass{article}
+
+\usepackage{amsmath}
+\usepackage{cancel}
+\usepackage{graphicx}
+
+\title{Cálculo de $\frac{f(b) - f(a)}{b - a}$ para $f(x) = x^2 + ax + bx$}
+\author{Seu Nome}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\section{Introdução}
+
+Neste documento, calculamos a expressão $\frac{f(b) - f(a)}{b - a}$ para a função $f(x) = x^2 + ax + bx$. O objetivo é apresentar o processo de forma clara, organizada e visualmente didática.
+
+\section{Cálculo passo a passo}
+
+\subsection{Passo 1: Definindo a função}
+
+A função em questão é:
+
+$f(x) = x^2 + ax + bx$
+
+\subsection{Passo 2: Calculando $f(a)$ e $f(b)$}
+
+Substituindo $x$ por $a$ e $b$, respectivamente, obtemos:
+
+$f(a) = a^2 + a^2 + ab = 2a^2 + ab$
+
+$f(b) = b^2 + ab + b^2 = 2b^2 + ab$
+
+\subsection{Passo 3: Substituindo e simplificando}
+
+Na expressão $\frac{f(b) - f(a)}{b - a}$, substituímos $f(a)$ e $f(b)$ pelas expressões obtidas:
+
+$\frac{f(a) - f(b)}{b - a} = \frac{(2b^2 + ab) - (2a^2 + ab)}{b - a}$
+
+Utilizando o pacote `cancel` para eliminar termos em comum, chegamos a:
+
+$\frac{2b^2 + \cancel{(ab)} - 2a^2 - \cancel{(ab)}}{b - a} = \frac{2b^2 - 2a^2}{b - a}$
+
+\subsection{Passo 4: Fatorando a expressão}
+
+Fatoramos $2$ e $b^2 - a^2$ para obter:
+
+$\frac{2(b^2 - a^2)}{b - a}$
+
+\subsection{Passo 5: Fatorando a diferença de quadrados}
+
+Utilizando a propriedade da diferença de quadrados, fatoramos $b^2 - a^2$ como $(b - a)(b + a)$, resultando em:
+
+$\frac{2 \cancel{(b - a)}(b + a)}{\cancel{b - a}}$
+
+\subsection{Passo 6: Simplificando a expressão final}
+
+Cancelando o fator $b - a$ no numerador e denominador, obtemos a expressão final:
+
+$\boxed{2(a + b)}$
+
+\section{Conclusão}
+
+O resultado final do cálculo é $\boxed{2(a + b)}$. O código LaTeX foi estruturado de forma organizada, com seções e subseções para cada etapa do processo. O uso de cores, recuos e formatação contribui para a clareza e legibilidade do código.
+
+
+\end{document}
